@@ -1,0 +1,71 @@
+gpuDeviceInit() CUDA Device [1]: "NVIDIA TITAN V
+training accuracy:
+6785 / 60000
+saving outputs
+saving weights
+testing dataset accuracy:
+0 / 10000
+gpuDeviceInit() CUDA Device [1]: "NVIDIA TITAN V
+loading previously saved weights
+testing dataset accuracy:
+850 / 10000
+gpuDeviceInit() CUDA Device [1]: "NVIDIA TITAN V
+loading previously saved weights
+training accuracy:
+6833 / 60000
+saving outputs
+saving weights
+testing dataset accuracy:
+0 / 10000
+gpuDeviceInit() CUDA Device [1]: "NVIDIA TITAN V
+loading previously saved weights
+testing dataset accuracy:
+922 / 10000
+gpuDeviceInit() CUDA Device [1]: "NVIDIA TITAN V
+loading previously saved weights
+training accuracy:
+6850 / 60000
+saving outputs
+saving weights
+testing dataset accuracy:
+0 / 10000
+gpuDeviceInit() CUDA Device [1]: "NVIDIA TITAN V
+loading previously saved weights
+testing dataset accuracy:
+1155 / 10000
+gpuDeviceInit() CUDA Device [1]: "NVIDIA TITAN V
+loading previously saved weights
+training accuracy:
+6844 / 60000
+saving outputs
+saving weights
+testing dataset accuracy:
+0 / 10000
+gpuDeviceInit() CUDA Device [1]: "NVIDIA TITAN V
+loading previously saved weights
+testing dataset accuracy:
+1336 / 10000
+gpuDeviceInit() CUDA Device [1]: "NVIDIA TITAN V
+loading previously saved weights
+training accuracy:
+6852 / 60000
+saving outputs
+saving weights
+testing dataset accuracy:
+0 / 10000
+gpuDeviceInit() CUDA Device [1]: "NVIDIA TITAN V
+loading previously saved weights
+testing dataset accuracy:
+1260 / 10000
+gpuDeviceInit() CUDA Device [1]: "NVIDIA TITAN V
+loading previously saved weights
+training accuracy:
+6867 / 60000
+saving outputs
+saving weights
+testing dataset accuracy:
+0 / 10000
+gpuDeviceInit() CUDA Device [1]: "NVIDIA TITAN V
+loading previously saved weights
+testing dataset accuracy:
+990 / 10000
